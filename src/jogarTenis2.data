@@ -1,0 +1,6 @@
+Registro,Panorama,Temperatura,Umidade,Vento,Decisao
+1,Ensolarado,Quente,Alta,Fraco,N
+2,Ensolarado,Quente,Alta,Forte,N
+8,Ensolarado,Intermediária,Alta,Fraco,N
+9,Ensolarado,Fria,Normal,Fraco,S
+11,Ensolarado,Intermediária,Normal,Forte,S
